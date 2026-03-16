@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Working on a few side projects... recently released first ever public repo as founder and maintainer. New territory. 
 <!--
 **kosar/kosar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
